@@ -20,6 +20,7 @@ Make sure you have the following installed on your machine:
 
 - Git
 - A code editor (e.g., Visual Studio Code)
+- Python
 
 ## Usage
 

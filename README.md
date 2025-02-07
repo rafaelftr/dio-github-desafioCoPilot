@@ -1,4 +1,4 @@
-# dio-github-desafioCoPilot
+# dio-github-desafioCopilot
 
 This repository is part of a challenge to learn and practice using GitHub Copilot.
 
